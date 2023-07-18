@@ -1,0 +1,1004 @@
+[
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15001",
+     "value": 67872,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15002",
+     "value": 171507,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15003",
+     "value": 49266,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15004",
+     "value": 15333,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15005",
+     "value":  174587,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15006",
+     "value": 12694,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15007",
+     "value": 23675,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15008",
+     "value": 25244,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15009",
+     "value": 53441,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15010",
+     "value": 31898,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15011",
+     "value": 75489,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15012",
+     "value": 12984,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15013",
+     "value": 523674,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15014",
+     "value": 109384,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15015",
+     "value": 31900,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15016",
+     "value": 29128,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   }, 
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15017",
+     "value": 10053,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15018",
+     "value": 68489,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15019",
+     "value": 36921,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15020",
+     "value": 293444,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15021",
+     "value": 38643,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15022",
+     "value": 15107,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15023",
+     "value": 40885,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15024",
+     "value": 178847,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15025",
+     "value": 400057,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15026",
+     "value": 31737,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15027",
+     "value": 12772,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15028",
+     "value": 30045,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15029",
+     "value": 200750,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15030",
+     "value": 27692,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15031",
+     "value": 705193,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15032",
+     "value": 37436,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15033",
+     "value": 1645352,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15034",
+     "value": 10827,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15035",
+     "value": 163244,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15036",
+     "value": 46757,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15037",
+     "value": 284965,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15038",
+     "value": 11929,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15039",
+     "value": 542211,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15040",
+     "value": 36911,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15041",
+     "value": 6475,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15042",
+     "value": 160139,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15043",
+     "value": 30687,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15044",
+     "value": 28217,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15045",
+     "value": 87671,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15046",
+     "value": 19877,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15047",
+     "value": 76826,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15048",
+     "value": 69264,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15049",
+     "value": 15428,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15050",
+     "value": 27116,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15051",
+     "value": 170327,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15052",
+     "value": 28155,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15053",
+     "value": 61220,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15054",
+     "value": 242307,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15055",
+     "value": 13807,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15056",
+     "value": 33164,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15057",
+     "value": 834434,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15058",
+     "value": 1077208,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15059",
+     "value": 57082,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15060",
+     "value": 430601,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15061",
+     "value": 10351,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15062",
+     "value": 72103,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15063",
+     "value": 36223,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15064",
+     "value": 36937,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15065",
+     "value": 36331,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15066",
+     "value": 4891,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15067",
+     "value": 88783,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15068",
+     "value": 30785,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15069",
+     "value": 4862,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15070",
+     "value": 304088,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15071",
+     "value": 14985,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15072",
+     "value": 15972,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15073",
+     "value": 31962,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15074",
+     "value": 144924,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15075",
+     "value": 29182,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15076",
+     "value": 97418,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   }, 
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15077",
+     "value": 6692,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15078",
+     "value": 9729,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15079",
+     "value": 14323,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15080",
+     "value": 24145,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15081",
+     "value": 547503,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15082",
+     "value": 79282,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15083",
+     "value": 14130,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15084",
+     "value": 43593,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15085",
+     "value": 66414,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15086",
+     "value": 35014,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15087",
+     "value": 105766,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15088",
+     "value": 104677,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15089",
+     "value": 11359,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15090",
+     "value": 90518,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15091",
+     "value": 65459,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   { 
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15092",
+     "value": 58507,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15093",
+     "value": 32564,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15094",
+     "value": 20500,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15095",
+     "value": 103696,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15096",
+     "value": 39489,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15097",
+     "value": 18482,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15098",
+     "value": 5736,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15099",
+     "value": 277562,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15100",
+     "value": 47044,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15101",
+     "value": 84259,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15102",
+     "value": 16414,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15103",
+     "value": 49196,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15104",
+     "value": 672202,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15105",
+     "value": 31762,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15106",
+     "value": 910608,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15107",
+     "value": 12912,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15108",
+     "value": 157645,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15109",
+     "value": 516341,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15110",
+     "value": 61590,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15111",
+     "value": 53275,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15112",
+     "value": 51498,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15113",
+     "value": 69086,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15114",
+     "value": 108196,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15115",
+     "value": 54633,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15116",
+     "value": 5109,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15117",
+     "value": 13522,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+      "sta_code": "15",
+      "sta_name": "México",
+      "code": "15118",
+      "value": 203872,
+      "mun_area_code": "MEX",
+      "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15119",
+     "value": 18833,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15120",
+     "value": 280455,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15121",
+     "value": 555163,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15122",
+     "value": 391731,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15123",
+     "value": 28822,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15124",
+     "value": 100082,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "15",
+     "sta_name": "México",
+     "code": "15125",
+     "value": 14883,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   }
+
+]
+

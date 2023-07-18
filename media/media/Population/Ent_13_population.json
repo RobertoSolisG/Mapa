@@ -1,0 +1,675 @@
+[
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13001",
+     "value": 22268,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13002",
+     "value": 46065,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },  
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13003",
+     "value":61002,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },  
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13004",
+     "value": 10313,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13005",
+     "value": 18872,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13006",
+     "value": 19162,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13007",
+     "value": 12546,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13008",
+     "value": 46681,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13009",
+     "value": 19836,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13010",
+     "value": 31525,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13011",
+     "value": 19812,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13012",
+     "value": 30135,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13013",
+     "value": 62470,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13014",
+     "value": 16150,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13015",
+     "value": 19431,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13016",
+     "value": 60421,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13017",
+     "value": 12967,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13018",
+     "value": 22903,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13019",
+     "value": 18909,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13020",
+     "value": 2593,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13021",
+     "value": 15175,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13022",
+     "value": 16285,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13023",
+     "value": 36248,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13024",
+     "value": 17607,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13025",
+     "value": 20673,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13026",
+     "value": 12766,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13027",
+     "value": 22846,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13028",
+     "value": 126781,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13029",
+     "value": 47425,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13030",
+     "value": 98654,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13031",
+     "value": 12290,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13032",
+    "value": 10523,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13033",
+     "value": 2895,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13034",
+     "value": 9474,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13035",
+     "value": 13078,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13036",
+     "value": 9449,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13037",
+     "value": 20962,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13038",
+     "value": 8878,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13039",
+     "value": 14324,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13040",
+     "value": 9819,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13041",
+     "value": 47222,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13042",
+     "value": 11578,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13043",
+     "value": 6265,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13044",
+     "value": 16948,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13045",
+     "value": 9295,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13046",
+     "value": 38492,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13047",
+     "value": 4748,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13048",
+     "value": 314331,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13049",
+     "value": 18723,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13050",
+     "value": 23641,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13051",
+     "value": 202749,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13052",
+     "value": 38891,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13053",
+     "value": 17699,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13054",
+     "value": 36796,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13055",
+     "value": 18329,
+     "mun_area_code": "MEX",
+    "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13056",
+     "value": 39561,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13057",
+     "value": 15142,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13058",
+     "value": 17441,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13059",
+     "value": 38010,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13060",
+     "value": 17503,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13061",
+     "value": 56245,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13062",
+     "value": 31235,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13063",
+     "value": 90546,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13064",
+     "value": 10830,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13065",
+     "value": 11768,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13066",
+     "value": 13032,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13067",
+     "value": 55134,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13068",
+      "value": 14340,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+      "code": "13069",
+     "value": 168302,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13070",
+     "value": 19067,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13071",
+     "value": 9086,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13072",
+     "value": 11113,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13073",
+     "value": 37722,
+     "mun_area_code": "MEX",
+    "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13074",
+     "value": 28626,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13075",
+     "value": 21362,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13076",
+     "value": 115107,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13077",
+     "value": 168369,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13078",
+     "value": 18260,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13079",
+     "value": 7015,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13080",
+     "value": 24674,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13081",
+     "value": 38155,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13082",
+     "value": 21443,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13083",
+     "value": 57906,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   },
+   {
+     "sta_code": "13",
+     "sta_name": "Hidalgo",
+     "code": "13084",
+     "value": 39927,
+     "mun_area_code": "MEX",
+     "mun_type": "municipio"
+   }
+
+]

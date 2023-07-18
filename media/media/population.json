@@ -1,0 +1,68 @@
+[
+	{
+		"code3": "01002",
+		"name": "Asientos",
+		"value": 51536,
+		"code": "01002"
+	},
+	{
+		"code3": "01011",
+		"name": "San Francisco de los Romo",
+		"value": 61997,
+		"code": "01011"
+	},
+	{
+		"code3": "01005",
+		"name": "Jesús María",
+		"value": 129929,
+		"code": "01005"
+	},
+	{
+		"code3": "01003",
+		"name": "Calvillo",
+		"value": 58250,
+		"code": "01003"
+	},
+	{
+		"code3": "01009",
+		"name": "Tepezalá",
+		"value": 22485,
+		"code": "01009"
+	},
+	{
+		"code3": "01001",
+		"name": "Aguascalientes",
+		"value": 948990,
+		"code": "01001"
+	},
+	{
+		"code3": "01007",
+		"name": "Rincón de Romos",
+		"value": 57369,
+		"code": "01007"
+	},
+	{
+		"code3": "01008",
+		"name": "San José de Gracia",
+		"value": 9552,
+		"code": "01008"
+	},
+	{
+		"code3": "01010",
+		"name": "El Llano",
+		"value": 20853,
+		"code": "01010"
+	},
+	{
+		"code3": "01006",
+		"name": "Pabellónn de Arteaga",
+		"value":47646,
+		"code": "01006"
+	},
+		{
+		"code3": "01004",
+		"name": "Cosío",
+		"value": 17000,
+		"code": "01004"
+	}
+]

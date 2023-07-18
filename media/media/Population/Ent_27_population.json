@@ -1,0 +1,143 @@
+[
+
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27001",
+        "value":   58524,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },   
+    {
+        "sta_code":  "27",
+        "sta_name":  "Tabasco",
+        "code":  "27002",
+        "value":   243229,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27003",
+        "value":   107731,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27004",
+        "value":   683607,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27005",
+        "value":   214877,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27006",
+        "value":   137257,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27007",
+        "value":   32181,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27008",
+        "value":   190885,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27009",
+        "value":   37749,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "27",
+        "sta_name":   "Tabasco",
+        "code":   "27010",
+        "value":   91185,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"   
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27011",
+        "value":   30798,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27012",
+        "value":  158601,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27013",
+        "value":   150300,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27014",
+        "value":   96741,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27015",
+        "value":   47905,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":   "27",
+        "sta_name":   "Tabasco",
+        "code":  "27016",
+        "value":   58718,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code":  "27",
+        "sta_name":   "Tabasco",
+        "code":   "27017",
+        "value":   62310,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    }
+        
+
+
+
+]

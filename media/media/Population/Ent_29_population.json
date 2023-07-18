@@ -1,0 +1,491 @@
+[
+
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29001",
+        "value": 11403,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29002",
+        "value": 16003,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29003",
+        "value": 7087,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29004",
+        "value": 18111,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29005",
+        "value": 80725,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29006",
+        "value": 51172,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29007",
+        "value": 17332,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29008",
+        "value": 16222,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29009",
+        "value": 5928,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29010",
+        "value": 73215,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29011",
+        "value": 4755,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29012",
+        "value": 9416,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29013",
+        "value": 98764,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29014",
+        "value": 15190,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29015",
+        "value": 38970,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29016",
+        "value": 7504,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29017",
+        "value": 11592,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29018",
+        "value": 38579,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29019",
+        "value": 22274,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29020",
+        "value": 9432,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29021",
+        "value": 18686,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29022",
+        "value": 6432,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29023",
+        "value": 26309,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29024",
+        "value": 28357,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29025",
+        "value": 82688,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29026",
+        "value": 24116,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29027",
+        "value": 12974,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29028",
+        "value": 25257,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29029",
+        "value": 13328,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29030",
+        "value": 15475,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29031",
+        "value": 35284,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29032",
+        "value": 13561,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29033",
+        "value": 99896,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29034",
+        "value": 45438,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29035",
+        "value": 6294,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29036",
+        "value": 22529,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29037",
+        "value": 9207,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29038",
+        "value": 18006,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29039",
+        "value": 25607,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29040",
+        "value": 10601,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29041",
+        "value": 33499,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29042",
+        "value": 14197,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },   
+
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29043",
+        "value": 42242,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29044",
+        "value": 45717,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29045",
+        "value": 6211,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29046",
+        "value": 4951,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29047",
+        "value": 3534,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29048",
+        "value": 19036,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29049",
+        "value": 5884,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29050",
+        "value": 11761,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29051",
+        "value": 4092,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29052",
+        "value": 6436,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29053",
+        "value": 7688,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29054",
+        "value": 5689,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },   
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29055",
+        "value": 3077,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29056",
+        "value": 7952,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29057",
+        "value": 4636,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29058",
+        "value": 9463,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29059",
+        "value": 7750,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "29",
+        "sta_name": "Tlaxcala",
+        "code": "29060",
+        "value": 5443,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    }
+
+
+
+
+
+]

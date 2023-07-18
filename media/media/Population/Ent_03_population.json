@@ -1,0 +1,42 @@
+[
+    {
+       "sta_code":"03",
+       "sta_name":"Baja California Sur",
+       "code":"03001",
+       "value": 73021,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"03",
+       "sta_name":"Baja California Sur",
+       "code":"03002",
+       "value": 64022,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"03",
+       "sta_name":"Baja California Sur",
+       "code":"03003",
+       "value": 292241,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+   },
+    {
+       "sta_code":"03",
+       "sta_name":"Baja California Sur",
+       "code":"03008",
+       "value": 351111,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+      "sta_code":"03",
+      "sta_name":"Baja California Sur",
+      "code":"03009",
+      "value": 18052,   
+      "mun_area_code":"MEX",
+      "mun_type":"municipio"
+    }
+ ]

@@ -1,0 +1,589 @@
+[
+
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26001",
+    "value": 2563,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26002",
+    "value": 91929,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26003",
+    "value":24976,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26004",
+    "value": 9492,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26005",
+    "value": 1177,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26006",
+    "value": 2788,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26007",
+    "value": 626,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26008",
+    "value": 979,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26009",
+    "value": 759,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26010",
+    "value": 1221,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26011",
+    "value": 1475,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26012",
+    "value": 23151,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26013",
+    "value": 1825,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26014",
+    "value": 3191,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26015",
+    "value": 1169,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26016",
+    "value": 4988,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26017",
+    "value": 89122,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26018",
+    "value": 436484,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26019",
+    "value": 39451,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26020",
+    "value": 4946,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26021",
+    "value": 1848,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26022",
+    "value": 863,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26023",
+    "value": 5829,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26024",
+    "value": 753,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26025",
+    "value": 51431,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26026",
+    "value": 61309,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26027",
+    "value": 9041,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26028",
+    "value": 1009,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26029",
+    "value": 156863,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26030",
+    "value": 936263,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26031",
+    "value": 1186,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26032",
+    "value": 888,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26033",
+    "value": 77682,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26034",
+    "value": 943,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26035",
+    "value": 12536,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26036",
+    "value": 33049,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26037",
+    "value": 1101,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26038",
+    "value": 5173,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26039",
+    "value": 5774,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26040",
+    "value": 1531,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26041",
+    "value": 14369,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26042",
+    "value": 164387,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26043",
+    "value": 264782,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26044",
+    "value": 365,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26045",
+    "value": 2438,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26046",
+    "value": 496,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26047",
+    "value": 9122,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26048",
+    "value": 62689,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26049",
+    "value": 3090,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26050",
+    "value": 1496,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26051",
+    "value": 4830,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26052",
+    "value": 5257,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26053",
+    "value": 369,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26054",
+    "value": 537,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26055",
+    "value": 199021,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26056",
+    "value": 10729,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26057",
+    "value": 1458,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},    
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26058",
+    "value": 16203,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26059",
+    "value": 1835,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26060",
+    "value": 2058,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26061",
+    "value": 1368,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26062",
+    "value": 1114,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26063",
+    "value": 1178,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26064",
+    "value": 1381,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26065",
+    "value": 1473,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26066",
+    "value": 8548,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26067",
+    "value": 1429,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26068",
+    "value": 1043,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26069",
+    "value": 4793,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26070",
+    "value": 13627,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26071",
+    "value": 21692,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "26",
+    "sta_name": "Sonora",
+    "code": "26072",
+    "value": 14279,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+}
+ 
+
+
+
+
+
+
+]                

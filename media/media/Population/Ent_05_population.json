@@ -1,0 +1,308 @@
+[
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05001",
+       "value":1022,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05002",
+       "value":163058,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05003",
+       "value":23056,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05004",
+       "value":29578,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05005",
+       "value":1643,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05006",
+       "value":29128,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05007",
+       "value":12715,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05008",
+       "value":3047,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05009",
+       "value":59035,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05010",
+       "value":82409,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05011",
+       "value":11898,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05012",
+       "value":1643,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05013",
+       "value":1735,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05014",
+       "value":9502,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05015",
+       "value":1584,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05016",
+       "value":1764,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05017",
+       "value":118337,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05018",
+       "value":237951,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05019",
+       "value":7928,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05020",
+       "value":71627,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05021",
+       "value":6539,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05022",
+       "value":33129,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05023",
+       "value":9642,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05024",
+       "value":44472,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05025",
+       "value":176327,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05026",
+       "value":3239,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05027",
+       "value":122243,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05028",
+       "value":64811,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05029",
+       "value":2471,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },    
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05030",
+       "value":879958,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05031",
+       "value":24759,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05032",
+       "value":42260,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05033",
+       "value":101041,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05034",
+       "value":6744,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05035",
+       "value":720848,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05036",
+       "value":20305,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05037",
+       "value":6188,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"05",
+       "sta_name":"Coahuila de Zaragoza",
+       "code":"05038",
+       "value":13135,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    }
+
+
+ ]

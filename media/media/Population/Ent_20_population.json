@@ -1,0 +1,4573 @@
+[
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20001",
+        "value": 841,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20002",
+        "value": 45167,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20003",
+        "value": 2547,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20004",
+        "value": 1107,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20005",
+        "value": 15261,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20006",
+        "value": 20464,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20007",
+        "value": 2395,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20008",
+        "value": 734,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20009",
+        "value": 6857,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20010",
+        "value": 13474,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20011",
+        "value": 1402,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20012",
+        "value": 11166,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20013",
+        "value": 3043,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20014",
+        "value": 28082,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20015",
+        "value": 5356,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20016",
+        "value": 9563,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20017",
+        "value": 3607,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20018",
+        "value": 752,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20019",
+        "value": 2754,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20020",
+        "value": 4847,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20021",
+        "value": 14488,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20022",
+        "value": 803,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20023",
+        "value": 26882,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20024",
+        "value": 3644,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20025",
+        "value": 11356,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20026",
+        "value": 9035,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20027",
+        "value": 2179,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20028",
+        "value": 23148,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20029",
+        "value": 4215,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20030",
+        "value": 8730,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20031",
+        "value": 7185,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20032",
+        "value": 1077,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20033",
+        "value": 2929,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20034",
+        "value": 1288,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20035",
+        "value": 657,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20036",
+        "value": 5256,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20037",
+        "value": 4424,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20038",
+        "value": 1885,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20039",
+        "value": 78313,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20040",
+        "value": 6385,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20041",
+        "value": 31710,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20042",
+        "value": 8385,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20043",
+        "value": 113570,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20044",
+        "value": 40934,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20045",
+        "value": 7888,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20046",
+        "value": 2943,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20047",
+        "value": 81,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20048",
+        "value": 1433,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20049",
+        "value": 1184,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20050",
+        "value": 3750,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20051",
+        "value": 4764,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20052",
+        "value": 5996,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20053",
+        "value": 1297,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20054",
+        "value": 404,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20055",
+        "value": 3739,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20056",
+        "value": 1446,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20057",
+        "value": 38183,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20058",
+        "value": 12722,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20059",
+        "value": 50375,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20060",
+        "value": 2487,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20061",
+        "value": 2893,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20062",
+        "value": 498,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20063",
+        "value": 4293,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20064",
+        "value": 8494,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20065",
+        "value": 1079,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20066",
+        "value": 5342,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20067",
+        "value": 270955,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20068",
+        "value": 23751,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20069",
+        "value": 3052,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20070",
+        "value": 6416,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20071",
+        "value": 3255,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20072",
+        "value": 8059,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20073",
+        "value": 34652,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20074",
+        "value": 456,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20075",
+        "value": 2660,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20076",
+        "value": 3411,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20077",
+        "value": 4370,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20078",
+        "value": 1301,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20079",
+        "value": 84438,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20080",
+        "value": 1593,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20081",
+        "value": 1871,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20082",
+        "value": 4163,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20083",
+        "value": 11391,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20084",
+        "value": 4168,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20085",
+        "value": 26194,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20086",
+        "value": 1032,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20087",
+        "value": 5521,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20088",
+        "value": 2881,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20089",
+        "value": 2308,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20090",
+        "value": 6234,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20091",
+        "value": 6279,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20092",
+        "value": 1776,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20093",
+        "value": 518,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20094",
+        "value": 1850,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20095",
+        "value": 4562,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20096",
+        "value": 756,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20097",
+        "value": 1771,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20098",
+        "value": 4233,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20099",
+        "value": 381,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20100",
+        "value": 393,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20101",
+        "value": 748,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20102",
+        "value": 5326,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20103",
+        "value": 6064,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20104",
+        "value": 2705,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20105",
+        "value": 7678,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20106",
+        "value": 249,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20107",
+        "value": 26282,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20108",
+        "value": 2936,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20109",
+        "value": 1232,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20110",
+        "value": 1668,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20111",
+        "value": 4873,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20112",
+        "value": 2576,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20113",
+        "value": 3169,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20114",
+        "value": 674,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20115",
+        "value": 10391,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20116",
+        "value": 4131,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20117",
+        "value": 2213,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20118",
+        "value": 2389,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20119",
+        "value": 735,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20120",
+        "value": 449,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20121",
+        "value": 596,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20122",
+        "value": 653,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20123",
+        "value": 2829,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20124",
+        "value": 19696,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20125",
+        "value": 11662,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20126",
+        "value": 5396,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20127",
+        "value": 1252,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20128",
+        "value": 1342,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20129",
+        "value": 356,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20130",
+        "value": 5180,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20131",
+        "value": 11411,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20132",
+        "value": 1380,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20133",
+        "value": 3934,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20134",
+        "value": 28500,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20135",
+        "value": 8231,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20136",
+        "value": 12191,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20137",
+        "value": 3450,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20138",
+        "value": 451,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20139",
+        "value": 2195,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20140",
+        "value": 812,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20141",
+        "value": 8710,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20142",
+        "value": 842,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20143",
+        "value": 9461,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20144",
+        "value": 1075,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20145",
+        "value": 5215,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20146",
+        "value": 2803,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20147",
+        "value": 376,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20148",
+        "value": 2182,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20149",
+        "value": 2182,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20150",
+        "value": 13856,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20151",
+        "value": 312,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20152",
+        "value": 2472,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20153",
+        "value": 4910,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20154",
+        "value": 2329,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20155",
+        "value": 1060,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20156",
+        "value": 3677,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20157",
+        "value": 16827,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20158",
+        "value": 2233,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20159",
+        "value": 5537,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20160",
+        "value": 1429,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20161",
+        "value": 2730,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20162",
+        "value": 2046,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20163",
+        "value": 1577,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20164",
+        "value": 2881,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20165",
+        "value": 1629,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20166",
+        "value": 11310,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20167",
+        "value": 2149,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20168",
+        "value": 938,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20169",
+        "value": 4251,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20170",
+        "value": 3700,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20171",
+        "value": 18102,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20172",
+        "value": 408,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20173",
+        "value": 1457,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20174",
+        "value": 4564,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20175",
+        "value": 1424,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20176",
+        "value": 2725,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20177",
+        "value": 10365,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20178",
+        "value": 6692,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20179",
+        "value": 1447,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20180",
+        "value": 2344,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20181",
+        "value": 453,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20182",
+        "value": 2181,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20183",
+        "value": 1475,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20184",
+        "value": 159452,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20185",
+        "value": 8939,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20186",
+        "value": 524,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20187",
+        "value": 1808,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20188",
+        "value": 9609,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20189",
+        "value": 3116,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20190",
+        "value": 22444,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20191",
+        "value": 296,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20192",
+        "value": 1522,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20193",
+        "value": 2807,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20194",
+        "value": 1372,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20195",
+        "value": 1056,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20196",
+        "value": 407,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20197",
+        "value": 3288,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20198",
+        "value": 29802,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20199",
+        "value": 494,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20200",
+        "value": 3703,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20201",
+        "value": 1880,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20202",
+        "value": 4577,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20203",
+        "value": 3538,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20204",
+        "value": 634,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20205",
+        "value": 16989,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20206",
+        "value": 2421,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20207",
+        "value": 19032,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20208",
+        "value": 6941,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20209",
+        "value": 607,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20210",
+        "value": 5773,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20211",
+        "value": 3411,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20212",
+        "value": 3117,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20213",
+        "value": 4203,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20214",
+        "value": 2033,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20215",
+        "value": 879,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20216",
+        "value": 1241,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20217",
+        "value": 3325,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20218",
+        "value": 544,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20219",
+        "value": 2668,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20220",
+        "value": 2692,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20221",
+        "value": 1494,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20222",
+        "value": 1426,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20223",
+        "value": 440,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20224",
+        "value": 643,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20225",
+        "value": 5903,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20226",
+        "value": 2971,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20227",
+        "value": 18339,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20228",
+        "value": 833,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20229",
+        "value": 9148,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20230",
+        "value": 932,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20231",
+        "value": 932,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20232",
+        "value": 22185,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20233",
+        "value": 1720,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20234",
+        "value": 7163,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20235",
+        "value": 3829,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20236",
+        "value": 1372,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20237",
+        "value": 1568,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20238",
+        "value": 994,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20239",
+        "value": 1000,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20240",
+        "value": 2749,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20241",
+        "value": 1034,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20242",
+        "value": 12436,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20243",
+        "value": 1975,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20244",
+        "value": 3934,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20245",
+        "value": 1324,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20246",
+        "value": 611,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20247",
+        "value": 1619,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20248",
+        "value": 15571,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20249",
+        "value": 3831,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20250",
+        "value": 1239,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20251",
+        "value": 1217,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20252",
+        "value": 2384,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20253",
+        "value": 2021,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20254",
+        "value": 3207,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20255",
+        "value": 1977,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20256",
+        "value": 229,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20257",
+        "value": 1052,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20258",
+        "value": 698,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20259",
+        "value": 2142,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20260",
+        "value": 2191,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20261",
+        "value": 6932,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20262",
+        "value": 991,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20263",
+        "value": 3184,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20264",
+        "value": 2169,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20265",
+        "value": 6711,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20266",
+        "value": 8551,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20267",
+        "value": 245,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20268",
+        "value": 1149,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20269",
+        "value": 4313,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20270",
+        "value": 1311,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20271",
+        "value": 3194,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20272",
+        "value": 6252,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20273",
+        "value": 3818,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20274",
+        "value": 1328,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20275",
+        "value": 7286,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20276",
+        "value": 691,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20277",
+        "value": 12350,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20278",
+        "value": 38682,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20279",
+        "value": 2932,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20280",
+        "value": 2011,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20281",
+        "value": 305,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20282",
+        "value": 653,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20283",
+        "value": 1044,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20284",
+        "value": 3141,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20285",
+        "value": 3668,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20286",
+        "value": 3100,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20287",
+        "value": 307,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20288",
+        "value": 585,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20289",
+        "value": 1214,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20290",
+        "value": 1043,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20291",
+        "value": 4308,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20292",
+        "value": 1510,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20293",
+        "value": 17116,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20294",
+        "value": 7035,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20295",
+        "value": 10020,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20296",
+        "value": 955,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20297",
+        "value": 2751,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20298",
+        "value": 13587,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20299",
+        "value": 1125,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20300",
+        "value": 6632,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20301",
+        "value": 1594,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20302",
+        "value": 4559,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20303",
+        "value": 1081,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20304",
+        "value": 716,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20305",
+        "value": 4333,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20306",
+        "value": 4654,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20307",
+        "value": 9735,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20308",
+        "value": 3307,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20309",
+        "value": 10368,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20310",
+        "value": 14552,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20311",
+        "value": 483,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20312",
+        "value": 11279,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20313",
+        "value": 730,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20314",
+        "value": 1755,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20315",
+        "value": 1899,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20316",
+        "value": 738,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20317",
+        "value": 1257,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+      {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20318",
+        "value": 49780,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20319",
+        "value": 972,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20320",
+        "value": 706,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20321",
+        "value": 751,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20322",
+        "value": 786,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20323",
+        "value": 2404,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20324",
+        "value": 48204,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20325",
+        "value": 11930,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20326",
+        "value": 5052,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20327",
+        "value": 15479,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20328",
+        "value": 1441,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20329",
+        "value": 1153,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20330",
+        "value": 4296,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20331",
+        "value": 982,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20332",
+        "value": 373,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20333",
+        "value": 3294,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20334",
+        "value": 50541,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20335",
+        "value": 867,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20336",
+        "value": 1697,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20337",
+        "value": 5616,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20338",
+        "value": 10361,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20339",
+        "value": 4353,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20340",
+        "value": 1747,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20341",
+        "value": 241,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20342",
+        "value": 4105,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20343",
+        "value": 1999,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20344",
+        "value": 2809,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20345",
+        "value": 4188,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20346",
+        "value": 1542,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20347",
+        "value": 4202,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20348",
+        "value": 8192,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20349",
+        "value": 2189,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20350",
+        "value": 16878,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20351",
+        "value": 2802,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20352",
+        "value": 4940,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20353",
+        "value": 2406,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20354",
+        "value": 477,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20355",
+        "value": 681,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20356",
+        "value": 2179,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20357",
+        "value": 848,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20358",
+        "value": 1958,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20359",
+        "value": 637,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20360",
+        "value": 3981,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20361",
+        "value": 825,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20362",
+        "value": 1495,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20363",
+        "value": 2675,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20364",
+        "value": 18654,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20365",
+        "value": 1059,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20366",
+        "value": 3676,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20367",
+        "value": 4582,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20368",
+        "value": 2067,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20369",
+        "value": 2193,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20370",
+        "value": 662,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20371",
+        "value": 986,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20372",
+        "value": 1316,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20373",
+        "value": 403,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20374",
+        "value": 1645,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20375",
+        "value": 13200,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20376",
+        "value": 365,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20377",
+        "value": 10860,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20378",
+        "value": 3720,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20379",
+        "value": 2951,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20380",
+        "value": 2242,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20381",
+        "value": 2940,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20382",
+        "value": 1182,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20383",
+        "value": 595,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20384",
+        "value": 4794,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20385",
+        "value": 100402,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20386",
+        "value": 19079,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20387",
+        "value": 2891,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20388",
+        "value": 2809,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20389",
+        "value": 908,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20390",
+        "value": 50362,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20391",
+        "value": 3375,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20392",
+        "value": 6726,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20393",
+        "value": 4173,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20394",
+        "value": 2796,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20395",
+        "value": 1629,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20396",
+        "value": 3259,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20397",
+        "value": 40123,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20398",
+        "value": 4874,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20399",
+        "value": 41921,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20400",
+        "value": 1713,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20401",
+        "value": 27046,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20402",
+        "value": 1067,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20403",
+        "value": 3751,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20404",
+        "value": 761,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20405",
+        "value": 1815,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20406",
+        "value": 21469,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20407",
+        "value": 9578,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20408",
+        "value": 499,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20409",
+        "value": 8939,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20410",
+        "value": 3418,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20411",
+        "value": 908,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20412",
+        "value": 3178,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20413",
+        "value": 50862,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20414",
+        "value": 11995,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20415",
+        "value": 4878,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20416",
+        "value": 461,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20417",
+        "value": 9682,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20418",
+        "value": 11735,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20419",
+        "value": 592,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20420",
+        "value": 1679,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20421",
+        "value": 4690,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20422",
+        "value": 603,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20423",
+        "value": 453,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20424",
+        "value": 3793,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20425",
+        "value": 2058,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20426",
+        "value": 8967,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20427",
+        "value": 16706,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20428",
+        "value": 2224,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20429",
+        "value": 1516,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20430",
+        "value": 317,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20431",
+        "value": 1830,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20432",
+        "value": 903,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20433",
+        "value": 2694,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20434",
+        "value": 3985,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20435",
+        "value": 3576,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20436",
+        "value": 896,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20437",
+        "value": 9653,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20438",
+        "value": 1839,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20439",
+        "value": 25347,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20440",
+        "value": 812,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20441",
+        "value": 9234,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20442",
+        "value": 250,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20443",
+        "value": 434,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20444",
+        "value": 481,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20445",
+        "value": 1699,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20446",
+        "value": 6008,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20447",
+        "value": 17100,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20448",
+        "value": 2469,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20449",
+        "value": 3294,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20450",
+        "value": 13855,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20451",
+        "value": 1019,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20452",
+        "value": 4421,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20453",
+        "value": 3918,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20454",
+        "value": 3556,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20455",
+        "value": 2904,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20456",
+        "value": 1667,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20457",
+        "value": 3346,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20458",
+        "value": 1157,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20459",
+        "value": 4877,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20460",
+        "value": 5242,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20461",
+        "value": 527,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20462",
+        "value": 4600,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20463",
+        "value": 525,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20464",
+        "value": 341,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20465",
+        "value": 1636,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20466",
+        "value": 13880,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20467",
+        "value": 19112,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20468",
+        "value": 14198,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20469",
+        "value": 34735,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20470",
+        "value": 4394,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20471",
+        "value": 431,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20472",
+        "value": 3361,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20473",
+        "value": 1291,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20474",
+        "value": 3440,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20475",
+        "value": 10175,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20476",
+        "value": 421,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20477",
+        "value": 1327,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20478",
+        "value": 1599,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20479",
+        "value": 174,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20480",
+        "value": 1351,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20481",
+        "value": 1898,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20482",
+        "value": 55840,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20483",
+        "value": 10886,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20484",
+        "value": 4458,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20485",
+        "value": 3134,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20486",
+        "value": 2419,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20487",
+        "value": 1966,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20488",
+        "value": 130,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20489",
+        "value": 4909,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20490",
+        "value": 2974,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20491",
+        "value": 4930,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20492",
+        "value": 2764,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20493",
+        "value": 545,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20494",
+        "value": 6300,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20495",
+        "value": 23029,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20496",
+        "value": 1893,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20497",
+        "value": 4233,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20498",
+        "value": 7593,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20499",
+        "value": 1922,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20500",
+        "value": 7991,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20501",
+        "value": 998,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20502",
+        "value": 5089,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20503",
+        "value": 425,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20504",
+        "value": 1590,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20505",
+        "value": 7681,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20506",
+        "value": 798,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20507",
+        "value": 3155,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20508",
+        "value": 1618,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20509",
+        "value": 11384,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20510",
+        "value": 760,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20511",
+        "value": 3335,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20512",
+        "value": 1101,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20513",
+        "value": 9027,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20514",
+        "value": 941,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20515",
+        "value": 67739,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20516",
+        "value": 5260,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20517",
+        "value": 6029,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20518",
+        "value": 113,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20519",
+        "value": 3386,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20520",
+        "value": 7393,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20521",
+        "value": 250,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20522",
+        "value": 1205,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20523",
+        "value": 1633,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20524",
+        "value": 327,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20525",
+        "value": 12483,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20526",
+        "value": 16688,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20527",
+        "value": 2490,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20528",
+        "value": 904,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20529",
+        "value": 1474,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20530",
+        "value": 3923,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20531",
+        "value": 2612,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20532",
+        "value": 4066,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20533",
+        "value": 2726,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20534",
+        "value": 3512,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20535",
+        "value": 3227,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20536",
+        "value": 449,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20537",
+        "value": 6710,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20538",
+        "value": 713,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20539",
+        "value": 6348,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20540",
+        "value": 8326,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20541",
+        "value": 1558,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20542",
+        "value": 887,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20543",
+        "value": 6386,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20544",
+        "value": 1032,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20545",
+        "value": 10099,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20546",
+        "value": 6392,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20547",
+        "value": 1005,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20548",
+        "value": 1960,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20549",
+        "value": 11465,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20550",
+        "value": 5764,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20551",
+        "value": 30254,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20552",
+        "value": 410,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20553",
+        "value": 12067,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20554",
+        "value": 5904,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20555",
+        "value": 3419,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20556",
+        "value": 306,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20557",
+        "value": 14542,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20558",
+        "value": 1376,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20559",
+        "value": 23067,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20560",
+        "value": 6467,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20561",
+        "value": 2954,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20562",
+        "value": 1682,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20563",
+        "value": 1245,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20564",
+        "value": 1195,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20565",
+        "value": 46464,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20566",
+        "value": 3144,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20567",
+        "value": 3382,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20568",
+        "value": 1695,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20569",
+        "value": 1454,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "20",
+        "sta_name": "Oaxaca",
+        "code": "20570",
+        "value": 22093,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    }
+
+]
+

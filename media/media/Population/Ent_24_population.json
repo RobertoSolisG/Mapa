@@ -1,0 +1,470 @@
+[
+
+
+{
+ "sta_code": "24",
+ "sta_name": "San Luis Potosí",
+ "code": "24001",
+ "value":18974,
+ "mun_area_code": "MEX",
+ "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24002",
+    "value":7785,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24003",
+    "value":48359,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24004",
+    "value":4013,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+ "sta_code": "24",
+ "sta_name": "San Luis Potosí",
+ "code": "24005",
+ "value":18317,
+ "mun_area_code": "MEX",
+ "mun_type": "municipio"
+},
+{
+ "sta_code": "24",
+ "sta_name": "San Luis Potosí",
+ "code": "24006",
+ "value":9579,
+ "mun_area_code": "MEX",
+ "mun_type": "municipio"
+},
+{
+ "sta_code": "24",
+ "sta_name": "San Luis Potosí",
+ "code": "24007",
+ "value":19840,
+ "mun_area_code": "MEX",
+ "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24008",
+    "value":22075,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24009",
+    "value":5050,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24010",
+    "value":30320,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24011",
+    "value":48106,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24012",
+    "value":20300,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24013",
+    "value":179371,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24014",
+    "value":15660,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24015",
+    "value":21814,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24016",
+    "value":40899,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24017",
+    "value":25119,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24018",
+    "value":15334,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24019",
+    "value":5453,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24020",
+    "value":102199,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24021",
+    "value":58469,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24022",
+    "value":19036,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24023",
+    "value":15301,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24024",
+    "value":97943,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24025",
+    "value":31107,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24026",
+    "value":9382,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24027",
+    "value":10215,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24028",
+    "value":911908,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24029",
+    "value":18468,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24030",
+    "value":4779,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24031",
+    "value":12163,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24032",
+    "value":39880,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24033",
+    "value":10785,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24034",
+    "value":14945,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24035",
+    "value":332072,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24036",
+    "value":29184,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24037",
+    "value":95037,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24038",
+    "value":14348,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24039",
+    "value":13603,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24040",
+    "value":36968,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24041",
+    "value":18208,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24042",
+    "value":13448,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24043",
+    "value":7966,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24044",
+    "value":7557,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24045",
+    "value":14188,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24046",
+    "value":18206,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24047",
+    "value":9277,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24048",
+    "value":5298,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24049",
+    "value":38389,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24050",
+    "value":52912,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},    
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24051",
+    "value":15458,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24052",
+    "value":10304,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24053",
+    "value":32544,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24054",
+    "value":49741,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24055",
+    "value":27386,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24056",
+    "value":17258,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},    
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24057",
+    "value":28996,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "24",
+    "sta_name": "San Luis Potosí",
+    "code": "24058",
+    "value":20959,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+}
+
+]

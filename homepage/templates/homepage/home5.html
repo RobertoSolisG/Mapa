@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"crossorigin="anonymous"></script>
+</head>
+<body>
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+  <div id="container" class="highcharts-container">
+
+  <style type="text/css">
+    container {
+     height: 600px;_
+     width: 500px;_
+     margin: 0 auto:
+    }
+   .loading {
+     margin-top: 10em;
+     text-align: center;
+     colo; gray;
+    }
+
+  </style>
+
+
+
+<script type="application/javascript">
+
+(async () => {
+
+  const feature = await fetch(
+  './media/media/prueba2.json'
+  ).then(response => response.json());
+
+console.log (feature)
+
+  const dat = [
+      ['01002', 731],
+      ['01011', 500],
+      ['01005', 200],
+      ['01003', 731],
+      ['01009', 600],
+      ['01001', 200],
+      ['01007', 100],
+      ['01008', 900],
+      ['01010', 550],
+      ['01006', 731],
+      ['01004', 731]
+   ];
+
+      Highcharts.mapChart('container', {
+        chart: {
+        map: feature
+        },
+
+        title: {
+        text: 'Highcharts Maps basic demo'
+        },
+
+        subtitle: {
+        text: 'Source map: <a href="./media/media/prueba2.json">Mexico</a>'
+        },
+
+        mapNavigation: {
+        enabled: true,
+        buttonOptions: {
+        verticalAlign: 'bottom'
+        }
+        },
+
+        colorAxis: {
+        min: 0
+        },
+
+        series: [{
+        data: dat,
+        name: 'Random data',
+        states: {
+        hover: {
+            color: '#BADA55'
+        }
+        },
+      dataLabels: {
+        enabled: true,
+        format: '{point.name}'
+    }
+    }]
+    });
+
+})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</script >
+</div>
+</body>
+
+</html>

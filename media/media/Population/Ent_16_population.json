@@ -1,0 +1,913 @@
+[
+
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16001",
+        "value": 11301,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16002",
+        "value": 14754,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16003",
+        "value": 23000,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16004",
+        "value": 14943,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16005",
+        "value": 10892,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16006",
+        "value": 126191,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16007",
+        "value": 3529,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16008",
+        "value": 24676,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16009",
+        "value": 36268,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16010",
+        "value": 20332,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16011",
+        "value": 11681,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16012",
+        "value": 45538,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16013",
+        "value": 9176,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16014",
+        "value": 17022,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16015",
+        "value": 19633,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16016",
+        "value": 20965,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16017",
+        "value": 35070,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16018",
+        "value": 9484,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16019",
+        "value": 20198,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16020",
+        "value": 29910,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16021",
+        "value": 13539,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16022",
+        "value": 25138,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16023",
+        "value": 10417,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16024",
+        "value": 20586,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16025",
+        "value": 40560,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16026",
+        "value": 4773,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16027",
+        "value": 4944,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16028",
+        "value": 5233,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16029",
+        "value": 12342,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16030",
+        "value": 11850,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16031",
+        "value": 16112,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16032",
+        "value": 15715,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16033",
+        "value": 21466,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16034",
+        "value": 125712,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16035",
+        "value": 30627,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16036",
+        "value": 11644,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16037",
+        "value": 7945,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16038",
+        "value": 41973,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16039",
+        "value": 9015,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16040",
+        "value": 18385,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16041",
+        "value": 16043,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16042",
+        "value": 14302,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16043",
+        "value": 68781,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16044",
+        "value": 12946,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16045",
+        "value": 36158,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16046",
+        "value": 14936,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16047",
+        "value": 19834,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16048",
+        "value": 5745,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16049",
+        "value": 19086,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16050",
+        "value": 89311,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16051",
+        "value": 13983,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16052",
+        "value": 196003,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16053",
+        "value": 849053,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16054",
+        "value": 7983,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16055",
+        "value": 45732,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16056",
+        "value": 32598,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16057",
+        "value": 8196,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16058",
+        "value": 20981,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16059",
+        "value": 9027,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16060",
+        "value": 9437,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16061",
+        "value": 24774,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16062",
+        "value": 21028,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16063",
+        "value": 14889,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16064",
+        "value": 26832,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16065",
+        "value": 39657,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16066",
+        "value": 98382,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16067",
+        "value": 16621,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16068",
+        "value": 29389,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16069",
+        "value": 106490,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16070",
+        "value": 15503,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16071",
+        "value": 69260,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16072",
+        "value": 13961,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16073",
+        "value": 27176,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16074",
+        "value": 10553,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16075",
+        "value": 78935,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16076",
+        "value": 78477,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16077",
+        "value": 17677,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16078",
+        "value": 12812,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16079",
+        "value": 49896,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16080",
+        "value": 19833,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16081",
+        "value": 9076,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16082",
+        "value": 79540,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16083",
+        "value": 33453,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16084",
+        "value": 31716,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16085",
+        "value": 35256,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16086",
+        "value": 15534,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16087",
+        "value": 15589,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16088",
+        "value": 114513,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16089",
+        "value": 24074,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16090",
+        "value": 16325,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16091",
+        "value": 14934,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16092",
+        "value": 12836,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16093",
+        "value": 28556,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16094",
+        "value": 6420,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16095",
+        "value": 12325,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16096",
+        "value": 5971,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16097",
+        "value": 29056,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16098",
+        "value": 25757,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16099",
+        "value": 14329,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16100",
+        "value": 14911,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16101",
+        "value": 8855,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16102",
+        "value": 356786,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16103",
+        "value": 23469,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16104",
+        "value": 15864,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16105",
+        "value": 32303,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16106",
+        "value": 16106,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16107",
+        "value": 76829,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16108",
+        "value": 204860,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16109",
+        "value": 3232,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16110",
+        "value": 49005,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },    
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16111",
+        "value": 18402,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16112",
+        "value": 157056,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    },
+    {
+        "sta_code": "16",
+        "sta_name": "Michoacán de Ocampo",
+        "code": "16113",
+        "value": 26213,
+        "mun_area_code": "MEX",
+        "mun_type": "municipio"
+    }
+
+]
+

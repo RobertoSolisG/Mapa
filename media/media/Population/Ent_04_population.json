@@ -1,0 +1,107 @@
+[
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04001",
+       "value": 59232,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04002",
+       "value": 294077,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04003",
+       "value": 248845,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04004",
+       "value": 78170,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04005",
+       "value": 31917,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04006",
+       "value": 42140,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04007",
+       "value":   8683,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04008",
+       "value":  11452, 
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04009",
+       "value": 59923,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04010",
+       "value": 31714,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04011",
+       "value": 46913,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    }, 
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04012",
+       "value": 15297,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"04",
+       "sta_name":"Campeche",
+       "code":"04013",
+       "value": 1,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+   }
+ 
+]

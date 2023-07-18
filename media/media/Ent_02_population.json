@@ -1,0 +1,58 @@
+[
+    {
+       "sta_code": "02",
+       "sta_name": "Baja Californa",
+       "code": "02004",
+       "value": 1922523,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02006",
+       "value": 117568,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02005",
+       "value": 126890,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02007",
+       "value": 1,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02001",
+       "value": 443807,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02002",
+       "value": 1049792,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    },
+    {
+       "sta_code": "02",
+       "sta_name": "Baja California",
+       "code": "02003",
+       "value": 108440,
+       "mun_area_code": "MEX",
+       "mun_type": "municipio"
+    }
+ ]

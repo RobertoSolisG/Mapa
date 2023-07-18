@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Datos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"crossorigin="anonymous"></script>
+</head>
+ <body>
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+
+<br>
+<br>
+
+<img src="media/media/mejoredu.png" class="img-responsive" />
+<br>
+<br>
+<text x="554" text-anchor="middle" class="highcharts-title" data-z-index="4" style="color:#333333;font-size:18px;fill:#333333;" y="94">Porcentaje de escuelas de EB y planteles de EMS según disponibilidad de conexión a internet por entidad federativa</text>
+<br>
+
+
+<br>
+<table class="table">
+
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+              <div class="container">
+        <div class="row">
+            <div class="col-4"> </div>>
+            <div class="col-4">
+
+                <div id="container" dir="ltr" class="highcharts-container "
+                style="position: relative; overflow: hidden; width: 1108px; height: 848px; text-align: left; line-height: normal; z-index: 0;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none; touch-action: manipulation; outline: none;">
+
+                <script type="application/javascript">
+
+
+                (async () => {
+
+                const topology = await fetch(
+                'https://code.highcharts.com/mapdata/countries/mx/mx-all.topo.json'
+                ).then(response => response.json());
+
+               // Prepare demo data. The data is joined to map using value of 'hc-key'
+               // property by default. See API docs for 'joinBy' for more info on linking
+               // data and map.
+               const data = [
+               ['mx-3622', 10], ['mx-bc', 11], ['mx-bs', 12], ['mx-so', 13],
+               ['mx-cl', 14], ['mx-na', 15], ['mx-cm', 16], ['mx-qr', 17],
+               ['mx-mx', 18], ['mx-mo', 19], ['mx-df', 20], ['mx-qt', 21],
+               ['mx-tb', 22], ['mx-cs', 23], ['mx-nl', 24], ['mx-si', 25],
+               ['mx-ch', 26], ['mx-ve', 27], ['mx-za', 28], ['mx-ag', 29],
+               ['mx-ja', 30], ['mx-mi', 31], ['mx-oa', 32], ['mx-pu', 33],
+               ['mx-gr', 34], ['mx-tl', 35], ['mx-tm', 36], ['mx-co', 37],
+               ['mx-yu', 38], ['mx-dg', 39], ['mx-gj', 40], ['mx-sl', 41],
+               ['mx-hg', 42]
+               ];
+
+               // Create the chart
+               Highcharts.mapChart('container', {
+               chart: {
+               map: topology
+               },
+
+               title: {
+               text: 'Highcharts Maps basic demo'
+               },
+
+               subtitle: {
+               text: 'Source map: <a href="http://code.highcharts.com/mapdata/countries/mx/mx-all.topo.json">Mexico</a>'
+               },
+
+               mapNavigation: {
+               enabled: true,
+               buttonOptions: {
+               verticalAlign: 'bottom'
+               }
+               },
+
+               colorAxis: {
+               min: 0
+               },
+
+               series: [{
+               data: data,
+               name: 'Random data',
+               states: {
+               hover: {
+                   color: '#BADA55'
+                }
+               },
+              dataLabels: {
+                enabled: true,
+                format: '{point.name}'
+            }
+        }]
+    });
+
+})();
+</script >
+
+                </div>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+            </div>
+        </div>
+        <div class="col-4"> </div>>
+    </div>
+  </body>
+</html>

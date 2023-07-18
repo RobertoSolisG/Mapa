@@ -1,0 +1,85 @@
+[
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06001",
+       "value": 27626,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06002",
+       "value": 157048,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06003",
+       "value": 21661,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06004",
+       "value": 20837,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06005",
+       "value": 31267,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06006",
+       "value": 5623,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06007",
+       "value": 191031,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06008",
+       "value": 10231,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06009",
+       "value": 116305,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"06",
+       "sta_name":"Colima",
+       "code":"06010",
+       "value": 149762,
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    }
+
+
+
+ ]

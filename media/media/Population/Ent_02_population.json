@@ -1,0 +1,58 @@
+[
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02001",
+       "value":"Ensenada",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02002",
+       "value":"Mexicali",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02003",
+       "value":"Tecate",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    }
+    {
+       "sta_code":"02",
+       "sta_name":"Baja Californa",
+       "code":"02004",
+       "value":"Tijuana",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02005",
+       "value":"Playas de Rosarito",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02006",
+       "value":"San Quintín",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+    },
+    {
+       "sta_code":"02",
+       "sta_name":"Baja California",
+       "code":"02007",
+       "value":"San Felipe",
+       "mun_area_code":"MEX",
+       "mun_type":"municipio"
+   }
+ ]

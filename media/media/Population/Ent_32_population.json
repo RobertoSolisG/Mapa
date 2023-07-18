@@ -1,0 +1,472 @@
+[
+
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32001",
+    "value": 6260,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32002",
+    "value": 4942,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32003",
+    "value": 2277,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32004",
+    "value": 4493,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32005",
+    "value": 45759,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32006",
+    "value": 8255,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32007",
+    "value": 12115,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32008",
+    "value": 13466,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32009",
+    "value": 10086,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32010",
+    "value": 240532,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32011",
+    "value": 3362,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32012",
+    "value": 8168,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32013",
+    "value": 6644,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32014",
+    "value": 20191,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32015",
+    "value": 1579,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32016",
+    "value": 23526,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32017",
+    "value": 211740,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32018",
+    "value": 4547,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32019",
+    "value": 25296,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32020",
+    "value": 59910,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32021",
+    "value": 4465,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32022",
+    "value": 19749,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32023",
+    "value": 12251,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32024",
+    "value": 53709,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32025",
+    "value": 13184,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32026",
+    "value": 17774,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32027",
+    "value": 2736,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32028",
+    "value": 2451,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32029",
+    "value": 23713,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32030",
+    "value": 2446,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32031",
+    "value": 8683,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32032",
+    "value": 13207,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32033",
+    "value": 4530,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32034",
+    "value": 27945,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32035",
+    "value": 16284,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32036",
+    "value": 44144,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32037",
+    "value": 17577,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32038",
+    "value": 72241,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32039",
+    "value": 64535,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32040",
+    "value": 21844,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32041",
+    "value": 2509,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32042",
+    "value": 63665,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32043",
+    "value": 1365,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"    
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32044",
+    "value": 16588,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32045",
+    "value": 8321,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32046",
+    "value": 6490,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32047",
+    "value": 5356,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32048",
+    "value": 27302,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32049",
+    "value": 32461,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32050",
+    "value": 10276,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32051",
+    "value": 34623,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32052",
+    "value": 19525,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32053",
+    "value": 13208,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32054",
+    "value": 19446,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32055",
+    "value": 31558,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32056",
+    "value": 149607,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32057",
+    "value": 20455,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+},
+{
+    "sta_code": "32",
+    "sta_name": "Zacatecas",
+    "code": "32058",
+    "value": 2767,
+    "mun_area_code": "MEX",
+    "mun_type": "municipio"
+}
+
+
+
+
+
+]

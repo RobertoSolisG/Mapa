@@ -1,0 +1,133 @@
+[
+
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09002",
+       "value":432205,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09003",
+       "value":614447,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09004",
+       "value":217686,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09005",
+       "value":1173351,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09006",
+       "value":404695,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09007",
+       "value":1835486,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09008",
+       "value":247622,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09009",
+       "value":152685,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09010",
+       "value":759137,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09011",
+       "value":392313,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09012",
+       "value":699928,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09013",
+       "value":442178,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09014",
+       "value":434153,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09015",
+       "value":545884,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09016",
+       "value":414470,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    },
+    {
+       "sta_code":"09",
+       "sta_name":"Ciudad de México",
+       "code":"09017",
+       "value":443704,
+       "mun_area_code":"MEX",
+       "mun_type":"demarcacíon territorial"
+    }
+
+
+ ]
